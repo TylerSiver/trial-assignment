@@ -1,6 +1,6 @@
 # Trial Assignment Exercise
 
-To ensure that you will be able to accept assignments and submit them, you are asked to submit this fake assignment as a trial for assignmenet one.
+To ensure that you will be able to accept assignments and submit them, you are asked to submit this fake assignment as a trial for assignment one.
 
 ## Your Task
 1. Log into your personal GitHub account (so that it can be linked to GitHub Classroom).
